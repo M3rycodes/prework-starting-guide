@@ -1,2 +1,2 @@
 # prework-starting-guide
-A starting guide to CODE
+Bootcamp Prework Starting Guide for Students
